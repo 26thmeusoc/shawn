@@ -1,0 +1,14 @@
+BUILDING shawn
+--------------
+To build shawn, you should run the supplied build script:
+
+	./build.sh
+Creates a Version of shawn in your Working directory.
+
+	./build.sh debug
+Creates a Debug Version of shawn. This edition creates a lot more output,
+regarding the current state of shawn.
+
+INSTALLING shawn
+----------------
+It is not supported nor recommended to install shawn.
